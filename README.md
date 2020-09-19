@@ -1,2 +1,2 @@
 # first-project
-This is my first self development website on coffee.(though more changes are need to be done and made better)
+This is my first developed website on Coffee(though few changes are to be made and I will make it better).
