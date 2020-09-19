@@ -1,0 +1,104 @@
+h1,h2,h3
+{
+color:brown;
+}
+body
+{
+  margin:0 auto;
+  width: 960px;
+}
+ul
+{
+  list-style-image: url(images/tiny-coffee-cup.gif);
+}
+p,ul
+{
+  font-family: cursive
+}
+a:link,a:visited
+{
+  color:brown;
+  text-decoration:none;
+  font-weight:bold;
+}
+  nav a:hover
+{
+  color:white;
+}
+nav ul
+{
+  list-style-type: none;
+}
+nav li
+{
+  display: inline
+    float:left;
+}
+nav a:link,a:visited
+{
+  background-color: brown;
+  color:white;
+  display:inline-block;
+  width:14.65%;
+  padding:1%;
+  text-align:center;
+  float: left;
+  }
+nav a:hover{
+  background-color:black;
+}
+aside
+{
+  width:200px;
+  background-color: tan;
+  float:right;
+  padding:20px;
+  text-align:center;
+  font-weight:bold;
+  margin:10px;
+  }
+.photo-left
+{
+  float:left;
+  margin:10px;
+}
+.photo-right
+{
+  float:right;
+  margin-right:20px;
+}
+header{
+  background-image: url(images/coffee-beans.jpg);
+  height:110px;
+  margin-bottom: 70px;
+  }
+header h1{
+  color:rgba(256,256,256,0.8);
+  margin-left:30px;
+  margin-top:30px;
+  font-size:50px;
+}
+footer{
+  margin:40px 0;
+}
+footer nav a:link,footer nav a:visited{
+  color:gray;
+  text-decoration: none;
+  display: inline-block;
+  width:14.65%;
+  text-align: center;
+  background-color: white;
+  
+}
+footer nav a:hover{
+  color:black;
+}
+th,td{
+  border:1px solid black;
+  width:20%;
+  text-align:center;
+  padding:5px;
+}
+table{
+  border-collapse: collapse;
+}
