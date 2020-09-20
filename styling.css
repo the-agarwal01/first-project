@@ -57,6 +57,9 @@ aside
   font-weight:bold;
   margin:10px;
   }
+form aside{
+  padding-left: 10px;
+}
 .photo-left
 {
   float:left;
@@ -101,4 +104,11 @@ th,td{
 }
 table{
   border-collapse: collapse;
+}
+video{
+  margin-bottom: 20px;
+  margin-left: 160px;
+  -webkit-filter:grayscale(50%);
+  -moz-filter:grayscale(50%);
+  filter:grayscale(50%);
 }
