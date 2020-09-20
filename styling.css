@@ -13,7 +13,7 @@ ul
 }
 p,ul
 {
-  font-family: Arial;
+  font-family: cursive
 }
 a:link,a:visited
 {
@@ -23,7 +23,7 @@ a:link,a:visited
 }
   nav a:hover
 {
-  color:white;
+  color:tan;
 }
 nav ul
 {
@@ -37,7 +37,7 @@ nav li
 nav a:link,a:visited
 {
   background-color: brown;
-  color:blue;;
+  color:sandybrown;
   display:inline-block;
   width:14.65%;
   padding:1%;
