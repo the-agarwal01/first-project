@@ -37,7 +37,7 @@ nav li
 nav a:link,a:visited
 {
   background-color: brown;
-  color:white;
+  color:blue;;
   display:inline-block;
   width:14.65%;
   padding:1%;
